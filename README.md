@@ -19,6 +19,7 @@ Matheus Victor Marques Alves - matheusmalves@live.com
   <li>Swagger</li>
   <li>Lombok</li>
   <li>Postman</li>
+  <li>RabbitMQ</li>
 </ol>
 
 
